@@ -1,4 +1,4 @@
-# Project: NYRR - 10 Years of Race Data
+# Project: NYRR Race Data
 <b>Question: How did COVID impact NYRR races?</b><br><br>
 Tableau Dashboard<br>
 Tableau Story Presentation<br>
