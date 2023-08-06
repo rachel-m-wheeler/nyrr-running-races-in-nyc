@@ -2,8 +2,6 @@
 <b>Question: How did COVID impact NYRR races?</b><br><br>
 <a href="https://public.tableau.com/app/profile/rachel.wheeler/viz/NYRRRaceData-StoryPresentation/RunningRacesinNYC">![tableau favicon](https://github.com/rachel-m-wheeler/nyrr-running-races-in-nyc/assets/102989527/c9c6b47b-3a93-4a74-9dbb-2ffb038b6981) <a href="https://public.tableau.com/app/profile/rachel.wheeler/viz/NYRRRaceData-StoryPresentation/RunningRacesinNYC"><b>Tableau Story Presentation</b></a><br>
 
-Data Created: June 2023
-
 ## Project Summary
 
 New York Road Runners (NYRR) is the largest race organizer in New York City. They host dozens of races every year, including the world-famous New York City Marathon every November. For this project, I scraped ten years of race data from their race results website; the data includes the name, date, location, distance, and runner demographics of each race they've hosted since 2014.
